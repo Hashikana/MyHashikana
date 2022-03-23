@@ -1,2 +1,2 @@
 # MyHashikana
-https://nimupoka.github.io/MyHashikana/
+https://iken-pro.github.io/iken_webpage/takahashi_my/index.html#
